@@ -1,10 +1,14 @@
 
 # Hi 👋🏽, I'm Yankho Kamtukulo
-<div>
-  <a href="linkedin.com/in/yankho-kamtukulo-91127129b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
-  <a href=""><img src="<a href="linkedin.com/in/yankho-kamtukulo-91127129b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>" /></a>
-</div>
 My superpower is cyber security and software development. Whether it’s defending systems or crafting seamless apps, I’m here to turn ideas into secure realities.
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/yankho-kamtukulo-91127129b)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Medium](https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourhandle)
+[![Website](https://img.shields.io/badge/Website-Visit-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://yourwebsite.com)
+
+</div>
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
